@@ -10,7 +10,7 @@
 
 </div>
 
-## about me
+## 🌷 about me
 
 Hi! I'm a Computing Science student at the University of Alberta interested in software development, data, and bioinformatics.
 
@@ -27,7 +27,7 @@ My interests include software development, databases, computational biology, and
 
 ---
 
-## featured project
+## 🌷 featured project
 
 ### CRISPR gRNA Designer
 
@@ -66,7 +66,7 @@ Candidate guides are evaluated using factors including:
 
 ---
 
-## other projects
+## 🌷 other projects
 
 ### SQL & Database Projects
 
@@ -115,7 +115,7 @@ The application was developed as an Android project, focusing on event creation 
 
 ---
 
-## technologies
+## 🌷 technologies
 
 ### Languages
 
@@ -135,7 +135,7 @@ The application was developed as an Android project, focusing on event creation 
 
 ---
 
-## currently
+## 🌷 currently
 
 🎀𓂃 ࣪˖ Completing my BSc in Computing Science
 
