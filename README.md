@@ -2,7 +2,7 @@
 
 # ୨୧ hi, i'm maheen! ୨୧
 
-### 🌸 Computing Science @ University of Alberta
+### 🌸 Computing Science @ University of Alberta 🌸
 
 *software • data • bioinformatics*
 
@@ -16,33 +16,53 @@ Hi! I'm a Computing Science student at the University of Alberta interested in s
 
 I enjoy building projects that combine programming with real-world applications, and am currently exploring software engineering, databases, and computational biology.
 
+<details>
+<summary>🌸 more about me</summary>
+
+<br>
+
+My interests include software development, databases, computational biology, and bioinformatics. I'm particularly interested in projects that combine computing with applications in biology and data.
+
+</details>
+
 ---
 
 ## featured project
 
 ### CRISPR gRNA Designer
 
-A web application for designing and evaluating CRISPR guide RNAs (gRNAs) from a target DNA sequence.
-
-The project supports multiple CRISPR enzymes and evaluates potential guides using factors such as GC content, genomic position, repeats, PAM type, and potential off-target effects.
+A web application for identifying and evaluating candidate CRISPR guide RNAs (gRNAs) from target DNA sequences.
 
 **Built with:**
 
 `Python` `Flask` `HTML/CSS` `JavaScript`
 
-**Highlights**
+<br>
 
-🌸 gRNA identification from DNA sequences
+* 🎀𓂃 ࣪˖ gRNA identification from DNA sequences
+* 🎀𓂃 ࣪˖ Support for different CRISPR enzymes and PAM patterns
+* 🎀𓂃 ࣪˖ Guide scoring and classification
+* 🎀𓂃 ࣪˖ CSV and PDF export
+* 🎀𓂃 ࣪˖ Web-based interface for exploring candidate guides
 
-🌸 Support for different CRISPR enzymes and PAM patterns
+<details>
+<summary>🌸 technical details</summary>
 
-🌸 Guide scoring and classification
+<br>
 
-🌸 CSV and PDF export
+The application supports multiple Cas enzymes, including SpCas9, SaCas9, and Cas12a, with enzyme-specific guide lengths and PAM patterns.
 
-🌸 Web-based interface for exploring candidate guides
+Candidate guides are evaluated using factors including:
 
-**→ [View the CRISPR gRNA Designer](https://github.com/maheen-001/CRIPSR-Guide-RNA-Designer)**
+* 🎀𓂃 ࣪˖ GC content
+* 🎀𓂃 ࣪˖ Position within the target sequence
+* 🎀𓂃 ࣪˖ Repetitive sequences
+* 🎀𓂃 ࣪˖ PAM classification
+* 🎀𓂃 ࣪˖ Potential off-target effects
+
+</details>
+
+**→ [View the CRISPR gRNA Designer](https://github.com/maheen-001/CRISPR-Guide-RNA-Designer)**
 
 ---
 
@@ -55,6 +75,25 @@ Projects exploring relational databases, SQL queries, database design, and data 
 **→ [SQL Project 1](https://github.com/maheen-001/291-project-1)**
 **→ [SQL Project 2](https://github.com/maheen-001/291-project-2)**
 
+<details>
+<summary>🌸 project details</summary>
+
+<br>
+
+**SQL Project 1**
+
+Database project involving relational database concepts and SQL queries.
+
+**→ [View Project 1](https://github.com/maheen-001/291-project-1)**
+
+**SQL Project 2**
+
+Database project exploring SQL and data management.
+
+**→ [View Project 2](https://github.com/maheen-001/291-project-2)**
+
+</details>
+
 ### Android Event App
 
 An Android application for creating and managing events, built as a mobile development project.
@@ -63,7 +102,16 @@ An Android application for creating and managing events, built as a mobile devel
 
 `Java` `Android Studio` `Android`
 
-**→ [View the Android Event App](https://github.com/maheen-001)**
+<details>
+<summary>🌸 project details</summary>
+
+<br>
+
+The application was developed as an Android project, focusing on event creation and management.
+
+</details>
+
+**→ [View the Android Event App](https://github.com/maheen-001/Syzygy-Event-App)**
 
 ---
 
@@ -89,13 +137,13 @@ An Android application for creating and managing events, built as a mobile devel
 
 ## currently
 
-Completing my **BSc in Computing Science**
+🎀𓂃 ࣪˖ Completing my BSc in Computing Science
 
-Learning more about **bioinformatics & computational biology**
+🎀𓂃 ࣪˖ Learning more about bioinformatics & computational biology
 
-Building my software development skills
+🎀𓂃 ࣪˖ Building software projects across web, databases, and mobile development
 
-Looking for opportunities to apply what I learn to real-world projects
+🎀𓂃 ࣪˖ Interested in software engineering, data, and computational biology opportunities
 
 ---
 
